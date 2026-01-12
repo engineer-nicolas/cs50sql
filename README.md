@@ -80,7 +80,7 @@ The final lecture expands your SQL knowledge to real database servers:
 
 ## Projects and Problem Sets
 
-Each lecture is paired with a problem set or project where you apply the SQL clauses and database concepts learned, such as:
+Each lecture is paired with a problem set where you apply the SQL clauses and database concepts learned, such as:
 
 - Writing complex queries across related tables
 - Designing schemas for normalized datasets
